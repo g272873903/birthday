@@ -26,7 +26,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "荣子慕同学": "./imgs/1.png",
+        "荣子慕同学": "./imgs/1.PNG",
          "祝你": "./imgs/2.jpeg",
         "愿你": "./imgs/3.jpeg",
     },
